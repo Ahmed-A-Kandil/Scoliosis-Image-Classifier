@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+venv.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
