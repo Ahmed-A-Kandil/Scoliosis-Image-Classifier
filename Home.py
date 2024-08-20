@@ -6,7 +6,7 @@ st.title("Scoliosis Image Classifier")
 st.write("Welcome to the Scoliosis Image Classifier app!")
 st.write("Use the sidebar to navigate between pages.")
 st.write(
-    "On the 'Classify' page, you can upload an image to classify it as Scoliosis or Normal."
+    "On the 'App' page, you can upload an image to classify it as Scoliosis or Normal."
 )
 
 
