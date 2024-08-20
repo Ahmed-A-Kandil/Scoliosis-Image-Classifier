@@ -30,7 +30,7 @@ ai_names = {
 p_names = {
     "Title": [
         "Physiotherapy Dean",
-        "Physiotherapy Associate Professor",
+        "Physiotherapy Demonstrator",
     ],
     "Name": [
         "Dr. Hala Ebrahim Kassem",
